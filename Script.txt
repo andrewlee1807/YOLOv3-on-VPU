@@ -1,0 +1,1 @@
+python mo_tf.py --input_model "C:\Users\BlackHole\Desktop\Inference YOLOv3 COCO\frozen_darknet_yolov3_model_PINTO.pb" --output_dir "C:\Users\BlackHole\Desktop" --tensorflow_use_custom_operations_config "extensions/front/tf/yolo_v3.json" --batch 1  --data_type FP16
