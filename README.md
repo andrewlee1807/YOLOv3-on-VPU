@@ -4,7 +4,9 @@
 1. Convert .weight to .H5 <br/>
 2. Convert .weight to .PB <br/>
 3. Check graph base on .PB model file <br/>
+  
 <h2>Note:<h2><br/>
+  
   - This's project runs on windows 10. <br/>
   - Cause YOLO's architecture some layers are not support run on VPU, so we have to exit from YOLOv3 with 3 outputs, then ParseYOLOV3Output helps to combine to get the final result.<br/>
 
