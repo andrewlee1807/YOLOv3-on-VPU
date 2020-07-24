@@ -4,7 +4,6 @@
 1. Convert .weight to .H5 <br/>
 2. Convert .weight to .PB <br/>
 3. Check graph base on .PB model file <br/>
-  
 <h2>Note:<h2><br/>
   
   - This's project runs on windows 10. <br/>
