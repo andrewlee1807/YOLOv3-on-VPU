@@ -7,6 +7,9 @@
 <h2>Note:<h2><br/>
   - This's project runs on windows 10. <br/>
   - Cause YOLO's architecture some layers are not support run on VPU, so we have to exit from YOLOv3 with 3 outputs, then ParseYOLOV3Output helps to combine to get the final result.<br/>
+  
+![Optional Text](../main/Yolo_architecture.PNG)
+
   - yolo_v3.json is cfg file that is used by converting to IR type 
   - "ParseYOLOV3Output" is the same function "_detection_layer".<br/>
   To get the graph of YOLO, run: <br/>
