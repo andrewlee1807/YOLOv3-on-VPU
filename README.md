@@ -25,4 +25,5 @@
  # Requirement :<br/>
  - Installed python3, Openvino.
   <p>References : PINTO</p>
+  <a>https://github.com/PINTO0309/OpenVINO-YoloV3/blob/master/pbmodels/download_yolov3.sh</a>
 
